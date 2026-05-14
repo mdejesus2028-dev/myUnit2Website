@@ -1,0 +1,87 @@
+body {
+  background-image: url("christmas-baking-background.jpg");
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+}
+p {
+  color: black;
+  font-size: 25px;
+  text-align: left;
+  color: #5c2729
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+  color: #db0000;
+  font-size: 50px;
+  font-family: fantasy
+}
+
+h2 {
+  text-align: left;
+  color:#db0000;
+  font-family: fantasy
+}
+
+h3 {
+  text-align: left;
+  color:#5c2729;
+  text-decoration: underline;
+  font-size:30px
+}
+
+h6 {
+  color:#5c2729;
+}
+
+img {
+  width: 300px;
+  height: 275px;
+  object-fit: cover;
+  object-position: center;
+  float:left;
+  border-radius: 20px;
+  margin: 10px;
+  border-color: #e57276;
+  border-width: 5px;
+  border-style: double;
+}
+
+.image {
+  object-fit: cover;
+  object-position: center;
+  float:right;
+}
+
+.top-header {
+  background: #ffffff;
+  border-style: double;
+  border-width: 40px;
+  border-color:#ffd9d9;
+}
+
+.top-link{
+  font-size:30px;
+}
+
+.return-link {
+  font-size: 30px;
+}
+
+.list {
+  font-size: 25px;
+  color:#5c2729
+}
+
+.sub-headings {
+  font-size:30px;
+}
+
+.instruction-images {
+  float:right;
+  display:block;
+}
+
